@@ -1,6 +1,6 @@
 tr	{
 	color: white;
-	background: LightGray;
+	background: chocolate;
 }
 
 p	{
@@ -12,12 +12,12 @@ body	{
 	background: black;
 }
 
-.merah	{
-	color: black;
+.virus	{
+	color: red;
 	text-align: center;
 	background: white;
 }
 
-.koplak {
+.tugas {
 	color: darkblue;
 }
