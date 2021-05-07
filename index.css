@@ -1,6 +1,6 @@
 tr	{
 	color: white;
-	background: chocolate;
+	background: orange;
 }
 
 p	{
@@ -9,9 +9,8 @@ p	{
 }
 
 body	{
-	background: black;
+	background-color: LightGray;
 }
-
 .merah	{
 	color: red;
 	text-align: center;
